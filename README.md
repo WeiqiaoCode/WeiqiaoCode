@@ -4,7 +4,7 @@
 
 I maintain Noname AI, a decision-making extension for the Noname card game, and contribute gameplay changes upstream.
 
-## Featured Project
+## Noname
 
 <p>
   <a href="https://github.com/WeiqiaoCode/noname-ai"><picture>
@@ -12,8 +12,6 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
     <img src="assets/noname-ai-light.svg" width="520" alt="Noname AI. Card-play strategy and decision testing. JavaScript.">
   </picture></a>
 </p>
-
-## Noname
 
 - `AI-lab`
 - `noname-character-improve`
