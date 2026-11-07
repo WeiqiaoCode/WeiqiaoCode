@@ -1,6 +1,6 @@
 # WeiqiaoCode
 
-**Game AI for Noname** · 微雀qiao
+**微雀🐤**
 
 I maintain Noname AI, a decision-making extension for the Noname card game, and contribute gameplay changes upstream.
 
