@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="172" viewBox="0 0 800 172" role="img" aria-labelledby="title description">
+  <title id="title">Voltide · 无线外设电量监测</title>
+  <desc id="description">Battery monitor for 2.4 GHz wireless peripherals。监测 2.4 GHz 无线外设电量</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="0.75" gradientUnits="objectBoundingBox">
+      <stop stop-color="#0e1019"/><stop offset="1" stop-color="#211631"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#9d78ec"/><stop offset="1" stop-color="#d8bcff"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="170" rx="19" fill="url(#bg)" stroke="#4a3763"/>
+  <rect x="32" y="20" width="35" height="2" rx="1" fill="url(#accent)"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+    <text x="32" y="47" fill="#c6a9f8" font-size="15" font-weight="650" letter-spacing="1">03 / FORK · 分支仓库</text>
+    <text x="32" y="93" fill="#f7f3ff" font-size="40" font-weight="750" letter-spacing="-1">Voltide<tspan dx="14" fill="#d9c8f1" font-size="21" font-weight="500" letter-spacing="0">无线外设电量监测</tspan></text>
+    <text x="34" y="126" fill="#ebe3f7" font-size="20">Battery monitor for 2.4 GHz wireless peripherals</text>
+    <text x="34" y="151" fill="#c8badb" font-size="18">监测 2.4 GHz 无线外设电量</text>
+  </g>
+  <g transform="translate(621 45)" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".74"><rect x="16" y="21" width="92" height="47" rx="10"/><path d="M109 37h8v15h-8M67 30L52 47h15L57 60"/></g>
+  <path d="M750 32h17v17m0-17-17 17" fill="none" stroke="#d8bcff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
