@@ -7,9 +7,15 @@ My public repositories cover Noname game AI and a tool for monitoring wireless p
 
 ## Projects · 项目
 
+### Game Style · 游戏风格
+
 <a href="https://github.com/WeiqiaoCode/Noname-AI"><img src="assets/noname-ai.svg" width="640" alt="Noname-AI · 无名杀 AI 改进"></a>
 
+### Game Development · 游戏开发
+
 <a href="https://github.com/WeiqiaoCode/noname"><img src="assets/noname.svg" width="500" alt="noname · 无名杀分支"></a>
+
+### Other · 其他
 
 <a href="https://github.com/WeiqiaoCode/Voltide"><img src="assets/voltide.svg" width="500" alt="Voltide · 无线外设电量监测"></a>
 
