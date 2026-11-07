@@ -15,10 +15,9 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
 
 ## Noname
 
-- `noname-ai-lab`
-- `noname-ai--private`
-- `noname-character-lab`
-- `noname-ol-ui`
+- `AI-lab`
+- `noname-character-improve`
+- `noname-ol-ui` · UI Polish
 
 ## Open Source Contributions
 
@@ -27,7 +26,7 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
 
 ## Tech Stack
 
-**JavaScript** for game AI · **Node.js** for automated checks
+JavaScript · Node.js · Python
 
 ---
 
