@@ -1,24 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="242" viewBox="0 0 800 242" role="img" aria-labelledby="title description">
-  <title id="title">Noname-AI · 无名杀 AI 改进</title>
-  <desc id="description">Community improvements to Feisheng’s Noname AI。社区协作改进飞升的无名杀 AI</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="0.75" gradientUnits="objectBoundingBox">
-      <stop stop-color="#0e1019"/><stop offset="1" stop-color="#211631"/>
-    </linearGradient>
-    <linearGradient id="accent">
-      <stop stop-color="#9d78ec"/><stop offset="1" stop-color="#d8bcff"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="798" height="240" rx="19" fill="url(#bg)" stroke="#4a3763"/>
-  <rect x="32" y="20" width="35" height="2" rx="1" fill="url(#accent)"/>
-  <g font-family="system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
-    <text x="32" y="47" fill="#c6a9f8" font-size="15" font-weight="650" letter-spacing="1">01 / FLAGSHIP · 旗舰项目</text>
-    <text x="32" y="108" fill="#f7f3ff" font-size="55" font-weight="750" letter-spacing="-1">Noname-AI<tspan dx="14" fill="#d9c8f1" font-size="21" font-weight="500" letter-spacing="0">无名杀 AI 改进</tspan></text>
-    <text x="34" y="147" fill="#ebe3f7" font-size="20">Community improvements to Feisheng’s Noname AI</text>
-    <text x="34" y="174" fill="#c8badb" font-size="18">社区协作改进飞升的无名杀 AI</text>
-    <text x="34" y="207" fill="#c6a9f8" font-size="16">Strategy, behavior, bug fixes, and testing</text>
-    <text x="34" y="228" fill="#c8badb" font-size="15">策略、行为、缺陷修复与测试</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="222" viewBox="0 0 660 222" role="img" aria-labelledby="title description">
+  <title id="title">Noname AI</title>
+  <desc id="description">Maintained game AI extension originally by Feisheng.</desc>
+  <style>
+    .panel { fill: #111820; }
+    .signal { stroke: #6DB9BC; }
+  </style>
+  <rect x="0.5" y="0.5" width="659" height="221" rx="12" fill="#111820" stroke="#303F4D"/>
+  <g font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+    <text x="28" y="43" fill="#9DC5E2" font-size="17" font-weight="600">Maintained extension</text>
+    <text x="28" y="107" fill="#EEF4F9" font-size="54" font-weight="700" letter-spacing="-1.6">Noname AI</text>
+    <text x="28" y="150" fill="#B9C9D7" font-size="23">Card-play strategy and decision testing.</text>
+    <text x="28" y="184" fill="#B9C9D7" font-size="19">Originally by Feisheng (飞升)</text>
   </g>
-  <g transform="translate(621 76)" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".74"><path d="M0 50H28L42 20H64L82 70H110M28 50L55 86H92L110 70M64 20L92 5H116" /><circle cx="28" cy="50" r="5"/><circle cx="64" cy="20" r="5"/><circle cx="82" cy="70" r="5"/><circle cx="110" cy="70" r="5"/></g>
-  <path d="M750 32h17v17m0-17-17 17" fill="none" stroke="#d8bcff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(447 68)" fill="none" stroke="#9DC5E2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="12" y="20" width="44" height="62" rx="7"/>
+      <rect class="panel" x="20" y="26" width="44" height="62" rx="7"/>
+      <path class="signal" d="M34 57h16m-8-8v16"/>
+      <path d="M64 57h24m0 0v-32h28m-28 32h28m-28 0v32h28"/>
+      <rect class="panel" x="116" y="18" width="36" height="14" rx="4"/>
+      <rect class="panel signal" x="116" y="50" width="48" height="14" rx="4"/>
+      <rect class="panel" x="116" y="82" width="29" height="14" rx="4"/>
+      <circle class="signal panel" cx="88" cy="57" r="4"/>
+      <path class="signal" d="M126 57h27"/>
+  </g>
+  <path d="M627 30l10-10m-8 0h8v8" fill="none" stroke="#9DC5E2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
