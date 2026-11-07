@@ -7,11 +7,15 @@ My public repositories cover Noname game AI and a tool for monitoring wireless p
 
 ## Projects · 项目
 
-[![Noname-AI · 无名杀 AI 改进](assets/noname-ai.svg)](https://github.com/WeiqiaoCode/Noname-AI)
+<a href="https://github.com/WeiqiaoCode/Noname-AI"><img src="assets/noname-ai.svg" width="640" alt="Noname-AI · 无名杀 AI 改进"></a>
 
-[![noname · 无名杀分支](assets/noname.svg)](https://github.com/WeiqiaoCode/noname)
+<a href="https://github.com/WeiqiaoCode/noname"><img src="assets/noname.svg" width="500" alt="noname · 无名杀分支"></a>
 
-[![Voltide · 无线外设电量监测](assets/voltide.svg)](https://github.com/WeiqiaoCode/Voltide)
+<a href="https://github.com/WeiqiaoCode/Voltide"><img src="assets/voltide.svg" width="500" alt="Voltide · 无线外设电量监测"></a>
+
+## Collaborations · 合作与贡献
+
+[Public contribution activity · 查看公开贡献记录](https://github.com/WeiqiaoCode#contribution-activity)
 
 ## Tech Stack · 技术栈
 
