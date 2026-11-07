@@ -1,17 +1,21 @@
 # WeiqiaoCode
 
-**Game AI for Noname** · 微雀qiao
+**微雀🐤**
 
 I maintain Noname AI, a decision-making extension for the Noname card game, and contribute gameplay changes upstream.
 
-## Featured Project
+## Noname
 
 <p>
   <a href="https://github.com/WeiqiaoCode/noname-ai"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/noname-ai.svg">
-    <img src="assets/noname-ai-light.svg" width="660" alt="Noname AI. Maintained extension. Card-play strategy and decision testing.">
+    <img src="assets/noname-ai-light.svg" width="520" alt="Noname AI. Card-play strategy and decision testing. JavaScript.">
   </picture></a>
 </p>
+
+- `AI-lab`
+- `noname-character-improve`
+- `noname-ol-ui` · UI Polish
 
 ## Open Source Contributions
 
@@ -20,7 +24,7 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
 
 ## Tech Stack
 
-**JavaScript** for game AI · **Node.js** for automated checks
+JavaScript · Node.js · Python
 
 ---
 
