@@ -9,7 +9,7 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
 <p>
   <a href="https://github.com/WeiqiaoCode/noname-ai"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/noname-ai.svg">
-    <img src="assets/noname-ai-light.svg" width="660" alt="Noname AI. Maintained extension. Card-play strategy and decision testing.">
+    <img src="assets/noname-ai-light.svg" width="520" alt="Noname AI. Card-play strategy and decision testing. JavaScript.">
   </picture></a>
 </p>
 
