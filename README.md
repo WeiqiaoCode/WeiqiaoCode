@@ -13,6 +13,13 @@ I maintain Noname AI, a decision-making extension for the Noname card game, and 
   </picture></a>
 </p>
 
+## Noname
+
+- `noname-ai-lab`
+- `noname-ai--private`
+- `noname-character-lab`
+- `noname-ol-ui`
+
 ## Open Source Contributions
 
 - **Noname** — Added Guozhan gameplay content and updated OL characters. [Merged #4443](https://github.com/libnoname/noname/pull/4443), [merged #4447](https://github.com/libnoname/noname/pull/4447)
