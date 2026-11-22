@@ -2,8 +2,6 @@
 
 **微雀🐤**
 
-I maintain Noname AI, a decision-making extension for the Noname card game, and contribute gameplay changes upstream.
-
 ## Noname
 
 <p>
